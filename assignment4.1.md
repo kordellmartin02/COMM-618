@@ -1,12 +1,12 @@
 Feb 3 2026
 
-Kordell Martin
+John Doe
 
 1301 McCormick Drive
 
 Largo, MD 20774
 
-Dear Mr. Kordell Martin,
+Dear Mr. John Doe,
 
 Pursuant to the state open records law Md. Gen. Provis. Code Ann. Secs. 4-101 to 4-601., I write to request access to and a copy of If your agency does not maintain these public records, please let me know who does and include the proper custodian's name and address.
 
@@ -24,6 +24,8 @@ Sincerely,
 
 Kordell Martin
 
-American University 4400 Massachusetts Ave NW, Washington, DC 20016
+American University
+
+4400 Massachusetts Ave NW, Washington, DC 20016
 
 2029318040
