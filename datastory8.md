@@ -1,0 +1,3 @@
+https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/
+
+The graphics in this piece were great at pulling me in and possibly getting readers to immediately care about the angle of oil prices affected by the U.S.-Israel War in Iran. The sources are a little buried, especially near the information at the beginning of the article. The map articles and visuals of data in terms of oil disruption are interactive and show the gravity of the conflict in the Strait of Hormuz. The article could have expanded on how countries across the globe are adapting and limiting resources to stay functioning during the war.
